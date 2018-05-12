@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '43161'
     url: http://www.gutenberg.org/2009/agents/43161
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45233#History-of-the-Twelfth-West-Virginia-Volunteer-InfantryThe-Part-It-Took-in-the-War-of-the-Reb_
 gutenberg_issued: '2014-03-27'
 gutenberg_type: Text
 identifiers:
